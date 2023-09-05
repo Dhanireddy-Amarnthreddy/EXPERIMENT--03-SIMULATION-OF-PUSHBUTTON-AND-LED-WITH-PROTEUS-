@@ -71,10 +71,11 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 
 ## STM 32 CUBE PROGRAM :
-
+~~~
 Developed by:D.Amarnath Reddy
 Reference no:212221240012
-~~
+~~~
+```
 #include "main.h"
 #include "stdbool.h"
 bool pb;
@@ -157,6 +158,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 {
 }
 #endif
+```
+
 
 
 ## Output screen shots of proteus  :
@@ -173,7 +176,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 <img width="820" alt="on state" src="https://github.com/Dhanireddy-Amarnthreddy/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/94165103/e35179a1-0455-4765-a82f-ff8c205e5b7a">
 
 ## Proteus layout
- <img width="823" alt="Screenshot 2023-09-05 090836" src="https://github.com/Dhanireddy-Amarnthreddy/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/94165103/3eaf04a2-a57f-4967-9185-0928642c7a63">
+ ![image](https://github.com/Dhanireddy-Amarnthreddy/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/94165103/bf92ca24-d54e-4004-b769-d7370494a2b7)
 
  
 ## Result :
