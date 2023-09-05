@@ -74,7 +74,7 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 Developed by:D.Amarnath Reddy
 Reference no:212221240012
-
+~~
 #include "main.h"
 #include "stdbool.h"
 bool pb;
